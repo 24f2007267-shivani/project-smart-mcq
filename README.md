@@ -1,7 +1,4 @@
-# DL GenAI Project
 ## Smart MCQ Solver Challenge
-
-## Shivani Mahajan: 24F2007267
 
 ## Folder Structure
 
